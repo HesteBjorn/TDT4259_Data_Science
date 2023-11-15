@@ -3,3 +3,5 @@ pandas
 scipy
 xgboost
 scikit-learn
+prophet
+seaborn
